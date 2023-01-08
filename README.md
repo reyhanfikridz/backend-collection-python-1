@@ -3,7 +3,7 @@
 ### Version: release-1.0 (2023-01-08)
 
 ### Summary:
-This is Python backend number 1 from my backend collection project. This backend is a REST API for CRUD post data build with FastAPI framework, PostgreSQL, and SQLAlchemy ORM, also tested with Starlette framework built-in FastAPI.
+This is Python backend number 1 from my backend collection project. This backend is a REST API for CRUD post data build with FastAPI framework, PostgreSQL, and Alembic/SQLAlchemy ORM, also tested with Starlette framework built-in FastAPI.
 
 ### Requirements:
 1. python (tested: v3.11.0)
